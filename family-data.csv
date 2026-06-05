@@ -1,0 +1,8 @@
+name,relationship,age,occupation_status,height_inches,weight_lbs
+Afaq,Brother,21,employed,72,140
+Aiza,Sister,14,unemployed,59,100
+Shazia,Mother,47,employed,62,130
+Amina,Sister,19,employed,63,130
+Aftab,Father,57,employed,68,180
+Ismail,NaN,18,unemployed,72,165
+Yasmine,Sister-in-law,22,employed,63,130
